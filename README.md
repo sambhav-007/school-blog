@@ -1,7 +1,7 @@
-# 🌟 Project Name
+# 🌟 School-Blog
 
 ## 📌 Description
-A brief overview of the project and what it does.
+School blog is a project for assignment of scm
 
 ## 🎨 Demo Preview (HTML & CSS)
 Here is a simple **HTML & CSS** snippet from the project:
