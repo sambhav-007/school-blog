@@ -102,7 +102,8 @@ Here is a simple **HTML & CSS** snippet from the project:
 
 Here’s how the project looks:  
 
-![Project Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9ZMzEIOwklMVioIiJBYnUZ9VVh0uwcHpDA&s) 
+![Project Screenshot](![Uploading image.png…]()
+) 
 
 🚀 How to Run the Project
 Clone the repository:
