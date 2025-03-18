@@ -19,33 +19,81 @@ Here is a simple **HTML & CSS** snippet from the project:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sample Webpage</title>
+    <title>School Blog</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            background-color: #007bff;
+            color: white;
             text-align: center;
             padding: 20px;
+            font-size: 24px;
         }
-        h1 {
-            color: #3498db;
+
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
-        .btn {
-            background-color: #2ecc71;
+
+        .blog-post {
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 15px;
+            margin-bottom: 15px;
+        }
+
+        .blog-post h2 {
+            color: #333;
+        }
+
+        .blog-post p {
+            color: #555;
+            line-height: 1.6;
+        }
+
+        .read-more {
+            display: inline-block;
+            background: #28a745;
             color: white;
-            padding: 10px 20px;
-            border: none;
-            cursor: pointer;
-            font-size: 18px;
+            padding: 8px 15px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+            font-size: 14px;
         }
-        .btn:hover {
-            background-color: #27ae60;
+
+        .read-more:hover {
+            background: #218838;
         }
     </style>
 </head>
 <body>
-    <h1>Welcome to My Project 🚀</h1>
-    <button class="btn">Click Me!</button>
+
+    <div class="header">📖 Welcome to School Blog</div>
+
+    <div class="container">
+        <div class="blog-post">
+            <h2>🏫 School Annual Day Celebration</h2>
+            <p>The Annual Day celebration was a grand success with amazing performances by students. Read more to see highlights and photos from the event.</p>
+            <a href="#" class="read-more">Read More</a>
+        </div>
+
+        <div class="blog-post">
+            <h2>📚 Tips for Effective Study</h2>
+            <p>Struggling with studies? Here are some effective tips to improve your learning habits and score better in exams!</p>
+            <a href="#" class="read-more">Read More</a>
+        </div>
+    </div>
+
 </body>
 </html>
 ```
