@@ -116,11 +116,13 @@ Copy
 Edit
 cd school-blog
 Open index.html in a browser.
+
 🛠️ Technologies Used
 HTML5
 CSS3
-JavaScript (if applicable)
+JavaScript 
 GitHub Pages (for hosting, if needed)
+
 🤝 Contribution Guidelines
 Want to contribute? Follow these steps:
 
