@@ -102,8 +102,7 @@ Here is a simple **HTML & CSS** snippet from the project:
 
 Here’s how the project looks:  
 
-![Project Screenshot](![Uploading image.png…]()
-) 
+![School Blog Screenshot](assets/screenshot.png) 
 
 🚀 How to Run the Project
 Clone the repository:
